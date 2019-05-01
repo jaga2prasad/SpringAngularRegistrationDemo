@@ -14,7 +14,7 @@ Application will run on default port 8080.
 
 Following are URL's of application: <br/>
 Application : http://127.0.0.1:8080 <br/>
-Swagger URL: htttp://http://127.0.0.1:8080/swagger-ui.html#/ <br/>
+Swagger URL:  http://127.0.0.1:8080/swagger-ui.html#/ <br/>
 
 # registrationAngular
 
