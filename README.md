@@ -9,7 +9,7 @@ This project consists of two components:
 registerDemo, was developed using Java8, SpringBoot, TestNg, Swagger. <br/>
 This project exposes, RestApi's which will be used by UI component.
 
-To Run this component, Go to Register.java and click run as Java Application. <br/>
+To Run this component, Go to Register.java and click, run as Java Application. <br/>
 Application will run on default port 8080.
 
 Following are URL's of application: <br/>
