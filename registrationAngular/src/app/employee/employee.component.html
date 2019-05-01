@@ -1,0 +1,23 @@
+
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>S No</th>
+        <th *ngFor="let column of headerColumns" >
+          {{column | titlecase}}
+        </th>
+      </tr>
+</thead>
+
+<tbody>
+<tr *ngFor="let e of emp; index as i"  >
+    <td>{{i+1}}</td>
+    <td *ngFor="let column of columns" >
+      {{e[column] | uppercase}}
+    </td>
+  </tr>
+</tbody>
+
+</table>
+
+

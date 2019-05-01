@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="393" started-at="2019-04-30T16:31:52Z" finished-at="2019-04-30T16:31:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="393" started-at="2019-04-30T16:31:52Z" finished-at="2019-04-30T16:31:52Z">
+      <class name="com.jaga.registerDemo.controller.RegisterControllerTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jaga.registerDemo.controller.RegisterControllerTest@271053e1]" name="setup" is-config="true" duration-ms="316" started-at="2019-04-30T22:01:52Z" finished-at="2019-04-30T22:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerTest()[pri:0, instance:com.jaga.registerDemo.controller.RegisterControllerTest@271053e1]" name="registerTest" duration-ms="63" started-at="2019-04-30T22:01:52Z" finished-at="2019-04-30T22:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method status="PASS" signature="registerTestException()[pri:0, instance:com.jaga.registerDemo.controller.RegisterControllerTest@271053e1]" name="registerTestException" duration-ms="2" started-at="2019-04-30T22:01:52Z" finished-at="2019-04-30T22:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTestException -->
+      </class> <!-- com.jaga.registerDemo.controller.RegisterControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
